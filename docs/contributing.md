@@ -4,24 +4,20 @@ We would love to accept your patches and contributions to this project.
 
 ## Before you begin
 
-### Sign our Contributor License Agreement
+### Sign off your commits (Developer Certificate of Origin)
 
-Contributions to this project must be accompanied by a
-[Contributor License Agreement](https://cla.developers.google.com/about) (CLA).
-You (or your employer) retain the copyright to your contribution; this simply
-gives us permission to use and redistribute your contributions as part of the
-project.
+Contributions to this project must be made under the terms of the
+[Developer Certificate of Origin (DCO), Version 1.1](https://developercertificate.org/).
+You (or your employer) retain the copyright to your contribution; signing off
+certifies that you have the right to submit it under the project's license.
 
-If you or your current employer have already signed the Google CLA (even if it
-was for a different project), you probably don't need to do it again.
-
-Visit <https://cla.developers.google.com/> to see your current agreements or to
-sign a new one.
+Every commit must carry a `Signed-off-by` line, which you add automatically with
+`git commit -s`. See [CONTRIBUTING.md](../CONTRIBUTING.md) and the [`DCO`](../DCO)
+file for the full policy and the certificate text.
 
 ### Review our Community Guidelines
 
-This project follows [Google's Open Source Community
-Guidelines](https://opensource.google/conduct/).
+This project follows our [Code of Conduct](code-of-conduct.md).
 
 ## Contribution process
 
