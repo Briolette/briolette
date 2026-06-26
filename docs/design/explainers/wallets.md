@@ -3,7 +3,7 @@ title: Wallet Overview
 description: A walkthrough of briolette wallets
 author: Will Drewry
 keywords: briolette,ecash,cbdc,se,smartcard
-url: https://github.com/google/briolette/docs/designs/explainers/wallets.md
+url: https://github.com/Briolette/briolette/tree/main/docs/design/explainers/wallets.md
 transition: pull
 ---
 

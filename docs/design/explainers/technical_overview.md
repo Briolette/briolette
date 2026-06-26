@@ -3,7 +3,7 @@ title: Briolette: Technical Overview
 description: A technical overview of briolette
 author: Will Drewry
 keywords: briolette,ecash,cbdc,se,smartcard
-url: https://github.com/google/briolette/docs/designs/explainers/wallets.md
+url: https://github.com/Briolette/briolette/tree/main/docs/design/explainers/technical_overview.md
 transition: pull
 ---
 

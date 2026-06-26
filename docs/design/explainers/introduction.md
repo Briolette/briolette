@@ -3,7 +3,7 @@ title: Briolett Explainer
 description: An introductory explainer of briolette
 author: Will Drewry
 keywords: briolette,ecash,cbdc,se,smartcard
-url: https://github.com/google/briolette/tree/main/docs/design/explainers/introduction.md
+url: https://github.com/Briolette/briolette/tree/main/docs/design/explainers/introduction.md
 transition: pull
 ---
 
@@ -174,5 +174,5 @@ A framework for digital value exchange
 ### I'd like to learn more.
 
 - Check out our other documentation!
-    - [Design Documents](https://github.com/google/briolette/tree/main/docs/design)
-    - Other [explainers](https://github.com/google/briolette/tree/main/docs/design/explainers)
+    - [Design Documents](https://github.com/Briolette/briolette/tree/main/docs/design)
+    - Other [explainers](https://github.com/Briolette/briolette/tree/main/docs/design/explainers)
